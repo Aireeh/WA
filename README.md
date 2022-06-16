@@ -3,7 +3,7 @@ Displays Icon, Spell Name and remaining duration of the spell you're not suppose
 
 ![vlc_lX5KrB1qUm](https://user-images.githubusercontent.com/107480863/174154166-973ec687-3256-4eb6-a575-d17c9f75bf7d.png)
 
-# [Moroes: Food](https://github.com/Aireeh/Weakauras-for-Ascension/blob/main/Moroes%20-%20Dinner%20is%20Served)
+# [Moroes: Dinner is Served](https://github.com/Aireeh/Weakauras-for-Ascension/blob/main/Moroes%20-%20Dinner%20is%20Served)
 Displays the needed food and the order Pig->Fish->Apple etc. dynamically, and the current starving stacks, additionally announces what kind of food you need in say or yell, announce message can be changed via options to announce role (Tank, Heal, DPS) or no role, as well as the intervall to either spam it or just once.
 
 
