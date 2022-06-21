@@ -7,8 +7,7 @@ Displays Icon, Spell Name and remaining duration of the spell you're not suppose
 Displays the needed food and the order Pig->Fish->Apple etc. dynamically, and the current starving stacks, additionally announces what kind of food you need in say or yell, announce message can be changed via options to announce role (Tank, Heal, DPS) or no role, as well as the intervall to either spam it or just once.
 
 
-
-![Ascension_vrjvKHMxmz](https://user-images.githubusercontent.com/107480863/174156380-76fd71ed-ffe5-449a-9c54-f1a6ddb87504.png)PLACEHOLDER IMAGE
+![vlc_mf6RnqylNh](https://user-images.githubusercontent.com/107480863/174751945-bfe3ff42-0c07-4897-a689-db0f88ced90e.png)
 
 
 Options Menu:
