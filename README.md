@@ -13,3 +13,13 @@ Displays the needed food and the order Pig->Fish->Apple etc. dynamically, and th
 Options Menu:
 
 ![Ascension_UCnNVPbqWB](https://user-images.githubusercontent.com/107480863/174155508-cfeb8c98-3469-402b-b502-07706e629da9.png)
+
+
+
+# [Auto Roll](https://github.com/Aireeh/Weakauras-for-Ascension/blob/main/Auto%20Roll)
+/!\Work in progress but mostly feature complete/!\ 
+
+Tired of rolling for the same items over and over again?
+Automatically rolls on a compiled list of items, or add items via name, id or link, so you don't get spammed with annoying roll pop-ups mid fight.
+
+![vfpqzAe4ni](https://user-images.githubusercontent.com/107480863/175812873-92715aad-d486-4d92-884f-68e63b4cfa01.png)
