@@ -19,6 +19,6 @@ Options Menu:
 # [Auto Roll](https://github.com/Aireeh/Weakauras-for-Ascension/blob/main/Auto%20Roll)
 Automatically rolls on a compiled list of items that can be edited via an options menu or add items via name, id or link.
 
-Currently in testing, some item IDs might be missing.
+Currently in testing, some High-Risk item IDs might be missing.
 
 ![vfpqzAe4ni](https://user-images.githubusercontent.com/107480863/175812873-92715aad-d486-4d92-884f-68e63b4cfa01.png)
