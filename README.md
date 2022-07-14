@@ -22,3 +22,9 @@ Automatically rolls on a compiled list of items that can be edited via an option
 Currently in testing, some High-Risk item IDs might be missing.
 
 ![vfpqzAe4ni](https://user-images.githubusercontent.com/107480863/175812873-92715aad-d486-4d92-884f-68e63b4cfa01.png)
+
+
+# [Mystic Enchant Check](https://github.com/Aireeh/Weakauras-for-Ascension/blob/main/Mystic%20Enchant%20Check)
+Shows currently equipped Mystic Enchants on Ready Check and when swapping presets for 10 seconds.
+
+![Ascension_UFefxrrEg2](https://user-images.githubusercontent.com/107480863/179014088-fee6941d-bbc1-4356-8e5e-64ae5ac4e3aa.png)
