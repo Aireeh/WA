@@ -1,3 +1,8 @@
+# [Auto Marking](https://github.com/Aireeh/Weakauras-for-Ascension/blob/main/Auto%20Marking)
+Automatically marks whitelisted mobs by mouseover or targeting them.
+
+![Ascension_IxKGiAS0Oc](https://user-images.githubusercontent.com/107480863/179372836-414dc268-092a-482c-b1cc-ee45ce4d53bf.gif)
+
 # [Opera: Spell Lock](https://github.com/Aireeh/Weakauras-for-Ascension/blob/main/Opera%20-%20Spell%20Lock)
 Displays Icon, Spell Name and remaining duration of the spell you're not supposed to cast.
 
@@ -28,3 +33,5 @@ Currently in testing, some High-Risk item IDs might be missing.
 Shows currently equipped Mystic Enchants on Ready Check and when swapping presets for 10 seconds.
 
 ![Ascension_UFefxrrEg2](https://user-images.githubusercontent.com/107480863/179014088-fee6941d-bbc1-4356-8e5e-64ae5ac4e3aa.png)
+
+
