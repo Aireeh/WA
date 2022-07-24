@@ -6,7 +6,6 @@ Only run this WA once per group.
 
 # [M+ Key Announcer](https://github.com/Aireeh/Weakauras-for-Ascension/blob/main/M%2B%20Key%20Announcer)
 Post your Keystone in the corresponding chat when #key or #keys is posted in Party/Guild, as well when the dungeon is completed. 
-Retail version made by Causese
 
 # [Opera: Spell Lock](https://github.com/Aireeh/Weakauras-for-Ascension/blob/main/Opera%20-%20Spell%20Lock)
 Displays Icon, Spell Name and remaining duration of the spell you're not supposed to cast.
