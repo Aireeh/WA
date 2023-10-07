@@ -9,6 +9,7 @@ Post your Keystone in the corresponding chat when #key or #keys is posted in Par
 
 With options to enable/disable posting in Guild/Party or after Dungeon completion.
 
+# [Spellbind Roulette]((https://github.com/Aireeh/Weakauras-for-Ascension/blob/main/SpellbindRoulette)
 # [Opera: Spell Lock](https://github.com/Aireeh/Weakauras-for-Ascension/blob/main/Opera%20-%20Spell%20Lock)
 Displays Icon, Spell Name and remaining duration of the spell you're not supposed to cast.
 
